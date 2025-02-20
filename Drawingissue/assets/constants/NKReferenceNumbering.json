@@ -1,0 +1,15 @@
+[
+  {
+    "releasenotes" : [
+        
+          "DrawingClassificationOption1" ,"DrawingClassificationOption2"
+      ]
+  
+  },
+  {
+    "destination": [
+           "RecipientOption1", "RecipientOption2" , "RecipientOption3","RecipientOption4","RecipientOption5"
+      ]
+  }
+  
+]
